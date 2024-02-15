@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "smdxJudtA2MC+1ZUSEn3bTHZSKrAHd8xqNOI2tvrItkdjq8p5v1UrUZUGfAGeoSG2e8ItSQJNbXuAYeMNe1+bA==",
+  "success": true,
+  "projectFilePath": "D:\\PROJECTS\\C#\\WEB\\SimpleTodoApi\\SimpleTodoApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kiris\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.2\\microsoft.entityframeworkcore.8.0.2.nupkg.sha512",
+    "C:\\Users\\Kiris\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.2\\microsoft.entityframeworkcore.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Kiris\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.2\\microsoft.entityframeworkcore.analyzers.8.0.2.nupkg.sha512",
+    "C:\\Users\\Kiris\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.0\\microsoft.entityframeworkcore.relational.8.0.0.nupkg.sha512",
+    "C:\\Users\\Kiris\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Kiris\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "C:\\Users\\Kiris\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Kiris\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Kiris\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Kiris\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\Kiris\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Kiris\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\Kiris\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Kiris\\.nuget\\packages\\npgsql\\8.0.0\\npgsql.8.0.0.nupkg.sha512",
+    "C:\\Users\\Kiris\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\8.0.0\\npgsql.entityframeworkcore.postgresql.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
